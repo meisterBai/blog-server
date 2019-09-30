@@ -1,0 +1,8 @@
+[app]
+
+addr = ":7777"
+time_out = 1
+
+[mysql]
+
+dial = "meister:meister@2019@tcp(127.0.0.1:3306)/leftconnect_test?timeout=90s&collation=utf8mb4_bin&loc=Local&parseTime=true"
