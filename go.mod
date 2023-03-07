@@ -28,7 +28,7 @@ require (
 	github.com/klauspost/compress v1.8.3 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
-	github.com/microcosm-cc/bluemonday v1.0.2 // indirect
+	github.com/microcosm-cc/bluemonday v1.0.20 // indirect
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/pelletier/go-toml v1.4.0
 	github.com/ryanuber/columnize v2.1.0+incompatible // indirect
